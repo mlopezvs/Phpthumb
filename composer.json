@@ -22,6 +22,5 @@
         "psr-0": {
             "Mews\\Phpthumb": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
