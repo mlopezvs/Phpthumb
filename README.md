@@ -5,16 +5,13 @@ A simple [Laravel 4](http://four.laravel.com/) service provider for including th
 ## Installation
 
 The PHPThumb Service Provider can be installed via [Composer](http://getcomposer.org) by requiring the
-`mews/phpthumb` package and setting the `minimum-stability` to `dev` (required for Laravel 4) in your
-project's `composer.json`.
+`mews/phpthumb` package (required for Laravel 4) in your project's `composer.json`.
 
 ```json
 {
     "require": {
-        "laravel/framework": "4.0.*",
-        "mews/phpthumb": "dev-master"
-    },
-    "minimum-stability": "dev"
+        "mews/phpthumb": "1.0"
+    }
 }
 ```
 
