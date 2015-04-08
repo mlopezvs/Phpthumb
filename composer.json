@@ -8,6 +8,10 @@
         {
             "name": "Muharrem ERIN",
             "email": "me@mewebstudio.com"
+        },
+        {
+            "name": "Marco López",
+            "email": "mlopez@marostdevelopers.com"
         }
     ],
     "require": {
@@ -19,5 +23,5 @@
             "Mews\\Phpthumb": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
